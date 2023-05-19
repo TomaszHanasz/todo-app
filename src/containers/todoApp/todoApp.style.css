@@ -1,0 +1,18 @@
+.todo-container {
+  display: flex;
+  justify-content: center;
+  background-color: azure;
+  width: 30vw;
+  margin: 30px auto;
+  padding: 30px;
+}
+
+.todo-box {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+}
+
+.note-text {
+  color: grey;
+}
